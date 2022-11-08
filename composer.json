@@ -1,5 +1,5 @@
 {
-    "name": "demindo-nl/mijndomeinreseller",
+    "name": "demindo/mijndomeinreseller",
     "type": "library",
     "description": "PHP Client for the MijnDomeinReseller API",
     "keywords": [
