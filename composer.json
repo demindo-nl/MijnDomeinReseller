@@ -1,5 +1,5 @@
 {
-    "name": "demindo/mijndomeinreseller",
+    "name": "rido/mijndomeinreseller",
     "type": "library",
     "description": "PHP Client for the MijnDomeinReseller API",
     "keywords": [
